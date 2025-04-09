@@ -1,0 +1,9 @@
+../Core/Src/main.c:63:6:delay_us	24	static
+../Core/Src/main.c:70:6:DHT11_Start	32	static
+../Core/Src/main.c:88:9:DHT11_CheckResponse	16	static
+../Core/Src/main.c:102:9:DHT11_ReadData	16	static
+../Core/Src/main.c:124:5:main	88	static
+../Core/Src/main.c:189:6:SystemClock_Config	88	static
+../Core/Src/main.c:235:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:268:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:298:6:Error_Handler	4	static
